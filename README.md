@@ -1,3 +1,5 @@
+### Deprecated (see [Frame SDK docs](https://docs.brilliant.xyz/frame/frame-sdk/) for details)
+
 # Frame SDK for Python
 The Python SDK for the Frame AI glasses from [Brilliant Labs](https://github.com/brilliantlabsAR).  View on [PyPI](https://pypi.org/project/frame-sdk/).
 
